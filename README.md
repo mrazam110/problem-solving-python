@@ -1,2 +1,2 @@
-# problem-solving-python
-I will solve basic problem as a beginner in programming language
+# Problem Solving
+I'll be using only variables, conditions, iterations and arrays to solve problem.
