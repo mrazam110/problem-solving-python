@@ -81,7 +81,7 @@ $ python3 diamond-problems.py
 ## [#4 - Maze Game](https://github.com/mrazam110/problem-solving-python/blob/master/Source/maze.py)
 User needs to move '2' to the top right '0', and '1' is a wall and '0' is a ground and user is '2'
 ```bash
-python3 maze.py
+$ python3 maze.py
 ['2', '0', '1', '0', '0']
 ['1', '0', '1', '0', '1']
 ['1', '0', '1', '0', '1']
