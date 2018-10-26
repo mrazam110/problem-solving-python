@@ -1,5 +1,19 @@
-# Problem Solving
-I'll be using only variables, conditions, iterations and arrays to solve problem.
+# Problem Solving - Basic Python
+The objective of this repo is to solve problems using basic programming skills i.e variables, conditions, iterations and arrays.
+
+## Problems:
+* [x] Hello World
+* [x] Prime Numbers
+* [x] Triangle/Diamond Problems
+* [x] Maze Game
+* [ ] Binary to Decimal and Decimal to Binary
+* [ ] Binary Numbers Addition
+* [ ] Matrix Addition
+* [ ] Matrix Multiplication
+
+*Feel free to add problems by opening pull requests.*
+
+------------
 
 If anyone like to compile any problem, just write following lines in terminal
 ```
