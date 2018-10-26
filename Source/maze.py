@@ -14,7 +14,7 @@ col= 0
 completed = 0
 
 while completed == 0:
-    direction = input()
+    direction = input("Enter direction up/down/left/right: ")
 
     if direction == "right":
         if maze[col][row + 1] == '0':
