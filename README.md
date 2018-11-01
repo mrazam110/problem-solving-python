@@ -10,6 +10,9 @@ The objective of this repo is to solve problems using basic programming skills i
 * [ ] Binary Numbers Addition
 * [ ] Matrix Addition
 * [ ] Matrix Multiplication
+* [ ] Linear Search
+* [ ] Binary Search
+* [ ] Bubble Sort
 
 *Feel free to add problems by opening pull requests.*
 
