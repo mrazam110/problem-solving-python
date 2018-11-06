@@ -14,6 +14,8 @@ The objective of this repo is to solve problems using basic programming skills i
 * [ ] Binary Search
 * [ ] Bubble Sort
 * [ ] Palindrome
+* [ ] Fibonacci series
+* [ ] Find armstrong number
 
 *Feel free to add problems by opening pull requests.*
 
